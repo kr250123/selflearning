@@ -10,6 +10,6 @@ public class AdditionalTestCase {
   }
   
   public AdditionalTestCase(String comment) {
-	  System.out.println(" " + comment);
+	  System.out.println(" >> " + comment);
   }
 }
