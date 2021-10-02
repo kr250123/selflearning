@@ -8,4 +8,8 @@ public class AdditionalTestCase {
   public AdditionalTestCase() {
 	  System.out.println("Testing Git ");
   }
+  
+  public AdditionalTestCase(String comment) {
+	  System.out.println(" " + comment);
+  }
 }
